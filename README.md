@@ -10,6 +10,8 @@
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows%20(WSL)-lightgrey)](https://github.com/nguyentuandungptit/AnimeVietSub_TUI)
 [![TUI Framework](https://img.shields.io/badge/Built%20with-Bubble%20Tea-f38ba8)](https://github.com/charmbracelet/bubbletea)
 
+</div>
+
 ---
 
 ## 📑 Mục Lục
