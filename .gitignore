@@ -1,0 +1,15 @@
+# Binaries
+/avs
+*.exe
+*.dll
+*.so
+*.dylib
+
+# User runtime data & config
+.avs_config.json
+.avs_history.json
+cookies.txt
+
+# Test artifacts
+*.test
+*.out
